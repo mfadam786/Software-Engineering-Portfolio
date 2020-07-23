@@ -1,0 +1,8 @@
+.row-header, .row-body, .row-footer {
+    text-align: center;
+}
+
+.nav .nav-tabs {
+    align-items: center;
+    justify-content: center;
+}
